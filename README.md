@@ -41,8 +41,8 @@ The early files use Euler integration and a lot of repeated code (I was figuring
 ## Presentations
 
 This research was presented at:
-- **247th American Astronomical Society (AAS) Meeting**, Phoenix, AZ — January 2026 (Oral)
-- **RIT Undergraduate Research Symposium**, Rochester, NY — July 2025 (Oral)
+- **247th American Astronomical Society (AAS) Meeting**, Phoenix, AZ - January 2026 (Oral)
+- **RIT Undergraduate Research Symposium**, Rochester, NY - July 2025 (Oral)
 
 ## Author
 
