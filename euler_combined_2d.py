@@ -94,10 +94,6 @@ while True:
 
     ion_rocket_m.goto(ion_m_x / 1e9, ion_m_y / 1e9)
 
-    #earth_label.clear()
-    #earth_label.goto(149.5978707 * math.cos(earth_angle), 149.5978707 * math.sin(earth_angle) - 30)
-    #earth_label.write("Earth", font=("Arial", 16, "normal"))
-
     earth.pendown()
     mars.pendown()
     chem_rocket.pendown()
