@@ -80,13 +80,6 @@ ion_m_rocket_mass = (1e5 + 144 * n) * math.e ** (5580 / 29430)
 ion_m_fuel_mass = ion_m_rocket_mass - ion_dry_mass
 ion_m_exhaust_mass = 2.07 * n * time_step / 86400 #.693
 
-#earth_label = turtle.Turtle()
-#earth_label.hideturtle()
-#earth_label.penup()
-#earth_label.color("blue")
-#earth_label.goto(149.5978707, -15)
-#earth_label.write("Earth", font=("Arial", 16, "normal"))
-
 G = 6.6743 * 10 ** -11
 sun_mass = 1.989 * 10 ** 30
 
