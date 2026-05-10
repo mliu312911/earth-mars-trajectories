@@ -21,10 +21,6 @@ earth.shape("circle")
 earth.color("dark turquoise")
 earth.penup()
 
-#ball = turtle.Turtle()
-#ball.color("white")
-#ball.penup()
-
 mars = turtle.Turtle()
 mars.shape("circle")
 mars.color("red")
