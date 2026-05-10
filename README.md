@@ -34,7 +34,7 @@ The early files use Euler integration and a lot of repeated code (I was figuring
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - `turtle` (standard library)
 - `vpython` (for 3D models)
 
