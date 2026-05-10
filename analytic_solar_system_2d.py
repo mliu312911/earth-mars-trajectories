@@ -27,7 +27,7 @@ mars.color("red")
 mars.penup()
 
 earth_angle = 0
-mars_angle = math.pi / 2#0.773180858633
+mars_angle = math.pi / 2 #0.773180858633
 earth_angular_speed = 2 * math.pi / 364.24
 mars_angular_speed = 2 * math.pi / 686.98
 
@@ -53,6 +53,8 @@ while True:
 
     print("Time (Days):", current_time)
 
+    # Numerical integration test
+    
     #Fx = -(G * m * sun_mass * x) / (x ** 2 + y ** 2) ** (3/2)
     #Fy = -(G * m * sun_mass * y) / (x ** 2 + y ** 2) ** (3/2)
 
